@@ -55,11 +55,11 @@ Introduction to policy and planning inquiry
 {{< tdopen >}}
 
 
-[In the Beginning There Was the Flying Spaghetti Monster](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/09/11/wfsm11.xml)
+{{% resource_link "ad1757b9-b264-4478-a89f-8cea9cbfb8bb" "In the Beginning There Was the Flying Spaghetti Monster" %}}
 
 Becker, Howard. "Whose Side are we On?" _Social Problems_ 14, no. 3 (1967): 239-247.
 
-Feynman, Richard. "[Cargo Cult Science](http://www.lockhaven.edu/~dsimanek/cargocul.htm)." Caltech commencement address, 1974. Also published in _Surely You're Joking, Mr. Feynman!_
+Feynman, Richard. "{{% resource_link "b4cd0801-0091-4b92-926f-f97025d93b4b" "Cargo Cult Science" %}}." Caltech commencement address, 1974. Also published in _Surely You're Joking, Mr. Feynman!_
 
 Little, Daniel. "Objectivity, Truth, and Method: A Philosopher's Perspective on the Social Sciences." _Anthropology Newsletter_, November 1995.
 
@@ -115,7 +115,7 @@ Feyerabend, Paul K. _Against Method: Outline of an Anarchistic Theory of Knowled
 
 Feynman, Richard. "What is Science?" _The Physics Teacher_ 7, no. 6 (1968): 313-320.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581042) Habermas, Jurgen. [_On the Logic of the Social Sciences_](https://mitpress.mit.edu/9780262581042). Cambridge, MA: MIT Press, 1990. ISBN: 9780262581042.
+{{% resource_link "c4e43ff6-b138-456d-a03c-541dd4ea176d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Habermas, Jurgen. {{% resource_link "c4e43ff6-b138-456d-a03c-541dd4ea176d" "_On the Logic of the Social Sciences_" %}}. Cambridge, MA: MIT Press, 1990. ISBN: 9780262581042.
 
 Haraway, Donna. "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective." In _Simians, Cyborgs, and Women: The Reinvention of Nature_. New York, NY: Routledge, 1996. ISBN: 9781853431395.
 
@@ -159,7 +159,7 @@ Lundberg, Craig C., and Cheri A. Young, eds. "Models and Theories: Purposes and 
 
 ———. "Inventing and Framing Research." In _Foundations for Inquiry: Choices and Trade-Offs in the Organizational Sciences_. Palo Alto, CA: Stanford University Press, 2005, pp. 247-285. ISBN: 9780804741538.
 
-Przeworski, Adam, and Frank Salamon. [_On the Art of Writing Proposals: Some Candid Suggestions for Applicants to Science Research Council Competitions_](https://s3.amazonaws.com/ssrc-cdn1/crmuploads/new_publication_3/the-art-of-writing-proposals.pdf). Social Science Research Council, 1998.
+Przeworski, Adam, and Frank Salamon. {{% resource_link "ed9ddb49-49af-4a38-9944-d155cc1d6b52" "_On the Art of Writing Proposals: Some Candid Suggestions for Applicants to Science Research Council Competitions_" %}}. Social Science Research Council, 1998.
 
 Locke, Spirduso, and Silverman, pp. 3-24. Skim 41-128 and 201-312 as interested.
 
@@ -233,7 +233,7 @@ Schwab, Donald P. "Construct Validity in Organizational Behavior." _Research in 
 
 Skim: Jones, Charles O. "Doing Before Knowing: Concept Development in Political Research." _American Journal of Political Science_ 18, no. 1 (1974): 215-228.
 
-Skim: Cronbach, Lee J., and Paul E. Meehl. "[Construct Validity in Psychological Tests](http://psychclassics.yorku.ca/Cronbach/construct.htm)." _Psychological Bulletin_ 52 (1955): 281-302.
+Skim: Cronbach, Lee J., and Paul E. Meehl. "{{% resource_link "6702b4f2-73b8-4747-b77f-d20f7c6a87d3" "Construct Validity in Psychological Tests" %}}." _Psychological Bulletin_ 52 (1955): 281-302.
 
 ### Recommended readings
 
@@ -299,7 +299,7 @@ Research ethics and research on human subjects
 {{< tdopen >}}
 
 
-[COUHES](http://web.mit.edu/committees/couhes/). Read all of the COUHES Web materials and complete the human subjects training and exam.
+{{% resource_link "73bca680-8782-4ea0-a96e-c294d01d1510" "COUHES" %}}. Read all of the COUHES Web materials and complete the human subjects training and exam.
 
 Singleton and Straits, chapters 6, 7 and 16.
 
@@ -431,7 +431,7 @@ Unobtrusive measures
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262572224) George, Alexander L., and Andrew Bennett. [_Case Studies and Theory Development in the Social Sciences_](https://mitpress.mit.edu/9780262572224). Cambridge, MA: MIT Press, 2005. ISBN: 9780262572224. Read pp. 3-36, skim pp. 73-108.
+{{% resource_link "46528b11-0cef-4b87-ab17-58bfe21b33d7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} George, Alexander L., and Andrew Bennett. {{% resource_link "46528b11-0cef-4b87-ab17-58bfe21b33d7" "_Case Studies and Theory Development in the Social Sciences_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262572224. Read pp. 3-36, skim pp. 73-108.
 
 Yin, pp. 1-56.
 
@@ -453,7 +453,7 @@ Burawoy, Michael. "The Extended Case Method." _Sociological Theory_ 16, no. 1 (1
 
 Collier, David, and James Mahoney. "Insights and Pitfalls: Selection Bias in Qualitative Research." _World Politics_ 49, no. 1 (1996): 56-91.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262572224) George, Alexander L., and Andrew Bennett. "Process-Tracing and Historical Explanation." In [_Case Studies and Theory Development in the Social Sciences_](https://mitpress.mit.edu/9780262572224). Edited by Alexander L. George and Andrew Bennett. Cambridge, MA: MIT Press, 2005. ISBN: 9780262572224.
+{{% resource_link "46528b11-0cef-4b87-ab17-58bfe21b33d7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} George, Alexander L., and Andrew Bennett. "Process-Tracing and Historical Explanation." In {{% resource_link "46528b11-0cef-4b87-ab17-58bfe21b33d7" "_Case Studies and Theory Development in the Social Sciences_" %}}. Edited by Alexander L. George and Andrew Bennett. Cambridge, MA: MIT Press, 2005. ISBN: 9780262572224.
 
 Ragin, Charles, and Howard Becker. _What is a Case? Exploring the Foundations of Social Inquiry_. Cambridge, UK: Cambridge University Press, 1992. ISBN: 9780521421881.
 
